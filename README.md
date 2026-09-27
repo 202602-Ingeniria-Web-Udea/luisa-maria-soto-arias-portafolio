@@ -22,4 +22,4 @@ Este proyecto tiene como objetivo mostrar de forma clara y visual mi experiencia
 
 ## Portafolio en Línea
 
- [Portfolio](https://my-portfolio-psi-six-66.vercel.app/)
+ [Portfolio](https://luisa-soto.vercel.app/)
