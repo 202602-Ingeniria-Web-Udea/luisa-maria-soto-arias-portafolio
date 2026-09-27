@@ -2,6 +2,8 @@
 
 Portafolio personal desarrollado con Next.js, que presenta mi perfil como estudiante de Ingeniería de Sistemas, mis conocimientos técnicos y los proyectos en los que he trabajado.
 
+Puedes visualizarlo dando click en el siguiente link: [Portafolio](https://luisa-soto.vercel.app/)
+
 ## Propósito
 
 Este proyecto tiene como objetivo mostrar de forma clara y visual mi experiencia académica, mis habilidades técnicas y los proyectos desarrollados durante mi formación como Ingeniera de Sistemas, sirviendo como carta de presentación para oportunidades laborales y de práctica.
@@ -19,7 +21,3 @@ Este proyecto tiene como objetivo mostrar de forma clara y visual mi experiencia
 - cd my-portfolio
 - yarn install
 - yarn dev
-
-## Portafolio en Línea
-
- [Portafolio](https://luisa-soto.vercel.app/)
