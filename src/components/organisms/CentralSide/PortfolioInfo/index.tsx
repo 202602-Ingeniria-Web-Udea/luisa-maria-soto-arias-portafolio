@@ -8,7 +8,8 @@ export default function PortfolioInfo () {
     <div className='w-full items-center'>
         <div className='mx-auto items-center w-1/2 mb-14'>
             <Title title='My Portfolio' size='text-3xl' classes='text-secondary font-bold mb-6'/>
-            <Text classes='text-gray-500 text-center text-justify'>The following cards represent the projects I have worked on, both independently and as part of a team.</Text>
+            <Text classes='text-gray-500 text-center text-justify'>The following cards represent the projects 
+              I have worked on, both independently and as part of a team.</Text>
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-3 mx-2 lg:mx-5 gap-5'>
             <PortfolioCard
@@ -16,10 +17,10 @@ export default function PortfolioInfo () {
             title='Itsuki - Mobile app'
             text='Itsuki is a mobile application for a Japanese restaurant that implements network communications between:
             Frontend: Ionic + Angular. Backend: Spring Boot + Docker. Network service: REST architecture using the HTTP protocol.'
-            images={['/itsuki/screen1.png',
-              '/itsuki/screen2.png',
-              '/itsuki/screen3.png', 
-              '/itsuki/screen4.png']}
+            images={['/Itsuki/screen1.png',
+              '/Itsuki/screen2.png',
+              '/Itsuki/screen3.png', 
+              '/Itsuki/screen4.png']}
             />
             <PortfolioCard
             icon='at-icons:delivery-box'
