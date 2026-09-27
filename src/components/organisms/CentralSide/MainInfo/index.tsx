@@ -2,7 +2,6 @@
 import React from 'react'
 import Button from "../../../atoms/Button/index";
 import PopUp from "../../../molecules/PopUp/index"
-import Image from '../../../atoms/Image/index';
 import { useState } from "react";
 
 const contactMeOnClick = () => {
