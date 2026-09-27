@@ -1,4 +1,4 @@
-# Portfolio Personal – Luisa María Soto Arias
+# Portafolio Personal – Luisa María Soto Arias
 
 Portafolio personal desarrollado con Next.js, que presenta mi perfil como estudiante de Ingeniería de Sistemas, mis conocimientos técnicos y los proyectos en los que he trabajado.
 
