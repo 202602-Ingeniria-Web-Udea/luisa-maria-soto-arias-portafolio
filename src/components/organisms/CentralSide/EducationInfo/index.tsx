@@ -2,7 +2,6 @@ import React from 'react'
 import Title from '../../../atoms/Title/index'
 import Text from '../../../atoms/Text/index'
 import EducationJobCard from '../../../molecules/EducationJobCard/index'
-import HorizontalLine from '../../../atoms/HorizontalLine/index'
 
 export default function EducationInfo () {
   return (

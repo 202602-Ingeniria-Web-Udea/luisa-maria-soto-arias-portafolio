@@ -8,7 +8,7 @@ export default function KnowledgeInfo () {
     <div className='w-full items-center'>
         <div className='mx-auto items-center w-1/2 mb-14'>
             <Title title= 'My Knowledge' size='text-3xl' classes='text-secondary font-bold mb-6'/>
-            <Text classes='text-gray-500 text-center text-justify'>A mix of technical skills and practices I've built through coursework and team projects, covering 
+            <Text classes='text-gray-500 text-center text-justify'> A mix of technical skills and practices I&apos;ve built through coursework and team projects, covering 
               everything from software architecture to frontend and backend development.</Text>
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-3 mx-2 lg:mx-5 gap-5'>
